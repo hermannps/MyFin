@@ -1,10 +1,20 @@
 from django.db import models
 
+
+# Create your models here.
+class Todo(models.Model):
+    title=models.CharField(max_length=350)
+    complete=models.BooleanField(default=False)
+
+    def __str__(self):
+        return self.title
+
+
 # Create your models here.
 class item_orcamento(models.Model):
-    valor = models.DecimalField(max_lengmax_digits=10, decimal_places=2)
-    valor_previsto = models.BooleanField(default=True)
-    mes = models.IntegerChoices()
+    valor = models.DecimalField(max_digits=10,decimal_places=2) #max_lengmax_digits=10, 
+    #valor_previsto = models.BooleanField(default=True)
+    #mes = models.IntegerChoices()
     categoria_escolha = [
         ('Receita', (
                 ('Renda de Investimentos', 'Renda de Investimentos'),
