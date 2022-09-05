@@ -1,0 +1,42 @@
+Módulo Orçamento
+
+1. Quais as minhas despesas mensais recorrentes? (não posso esquecer de pagar nenhuma conta)
+2. Qual o saldo mensal e anual (diferença entre receitas e despesas)-(consegui economizar este mês)?
+4. Qual o saldo das minhas contas ao fim do mês? (Conta corrente, Poupança)
+5. Quanto eu consigo transferir para conta de investimento este mês?
+
+Módulo Investimentos (qual o saldo dos meus investimentos)?
+- Qual o saldo mensal de novos aportes? (compra de novos ativos)
+- Qual foi o rendimento obtido este mês por tipo de investimento? (visão hierárquica dos proventos e ganhos de capital de acordo com o valor atual dos ativos)
+
+Classificação dos Investimentos:
+	- Renda Fixa 
+		- LCI
+		- LCA
+		- LC
+		- Debenture
+		- CDB
+		- Tesouro
+			- Prefixado
+				- Prefixado
+				- Prefixado com Juros Semestrais
+			- Posfixado
+				- Selic
+				- IPCA+
+				- IPCA+ Juros Semestrais
+	- Renda Variável
+		- Ações
+		- FII
+		- Moeda
+		
+Módulo aposentadoria
+	- Quais as minhas despesas na aposentadoria?
+		Usar a classificação do módulo de Orçamento para planejar os gastos mensais
+	- Quanto vou precisar de renda para me aposentar
+		Soma das despesas previstas + margem de folga
+	- Qual o modelo de renda vou utilizar?
+		Renda vitalícia: não quero que meus ativos percam valor ao longo do tempo. O que sobrar após a morte vira herança.
+		Renda com prazo determinado: com base na minha expectativa de vida, quero ter uma renda maior. Não me importo de perder patrimônio ao longo do tempo para ter mais renda.
+		Renda mista: Quero ter uma renda intermediária, com prazo determinado, e após este prazo, a renda fica num mínimo que me garanta as necessidades básicas, e uma herança mínima de patrimônio para meus descendentes.
+	- Quanto preciso acumular de bens e investimentos para me aposentar? Quando atingirei estes objetivos com base no meu orçamento e investimentos atuais?
+	
