@@ -6,7 +6,7 @@ Módulo Orçamento
 5. Quanto eu consigo transferir para conta de investimento este mês?
 
 Módulo Investimentos (qual o saldo dos meus investimentos)?
-- Qual o saldo mensal de novos aportes? (compra de novos ativos)
+- Qual o saldo mensal e anual de novos aportes? (compra de novos ativos)
 - Qual foi o rendimento obtido este mês por tipo de investimento? (visão hierárquica dos proventos e ganhos de capital de acordo com o valor atual dos ativos)
 
 Classificação dos Investimentos:
@@ -39,4 +39,3 @@ Módulo aposentadoria
 		Renda com prazo determinado: com base na minha expectativa de vida, quero ter uma renda maior. Não me importo de perder patrimônio ao longo do tempo para ter mais renda.
 		Renda mista: Quero ter uma renda intermediária, com prazo determinado, e após este prazo, a renda fica num mínimo que me garanta as necessidades básicas, e uma herança mínima de patrimônio para meus descendentes.
 	- Quanto preciso acumular de bens e investimentos para me aposentar? Quando atingirei estes objetivos com base no meu orçamento e investimentos atuais?
-	
