@@ -4,3 +4,5 @@
 git remote add origin https://github.com/hermannps/MyFin.git
 git branch -M main
 git push -u origin main
+
+Vídeo sobre como configurar e usar o git e github no VSCODE: https://www.youtube.com/watch?v=HIqyLRKv-YE
